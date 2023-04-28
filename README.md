@@ -1,6 +1,6 @@
-# JARU - A Programming Language for Microcontrolers Devices
+# JARU - A Programming Language for Microcontrollers Devices
 
-JARU is a high-level, dynamically-typed programming language specifically designed for programming microcontrolers and limited resources devices, incorporating a compact and fast virtual machine. This language is intended for implementation on devices with limited resources, such as the ESP32 or RISCV.
+JARU is a high-level, dynamically-typed programming language specifically designed for programming microcontrollers and limited resources devices, incorporating a compact and fast virtual machine. This language is intended for implementation on devices with limited resources, such as the ESP32 or RISCV.
 
 ## Features
 
