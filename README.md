@@ -5,7 +5,7 @@ JARU is a high-level, dynamically-typed programming language specifically design
 ## Features
 
 - Optimized virtual machine for minimal memory space requirements and efficient execution.
-- Ideal for Internet of Things (IoT) projects.
+- Optimally designed for Internet of Things (IoT) projects.
 - Supports functions, classes, and a standard module library that expands the language's possibilities.
 - Easy to learn, making it suitable for education and rapid prototyping.
 - Focus on compatibility and accessibility.
